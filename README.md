@@ -23,10 +23,6 @@ pip install -r requirements.txt
 ```bash
 python src/train.py
 ```
-
-### Notebook
-Explore the full pipeline in `notebooks/mlp_class.ipynb`
-
 ## Results
 - Training samples: 40,000
 - Validation samples: 4,000
